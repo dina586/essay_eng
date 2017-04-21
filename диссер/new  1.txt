@@ -1,0 +1,11 @@
+http://biosite.ru/print.php?id=46
+http://www.jonasavrin.com/2011/01/15/free-3d-ir-head-scan-release-smart-hdr-ibl-vray-2-0/
+https://www.lap-publishing.com/catalog/details/store/ru/book/978-3-8433-0463-4/%D0%A1%D0%9E%D0%92%D0%A0%D0%95%D0%9C%D0%95%D0%9D%D0%9D%D0%AB%D0%95-%D0%9C%D0%95%D0%A2%D0%9E%D0%94%D0%AB-%D0%90%D0%9D%D0%90%D0%9B%D0%98%D0%97%D0%90-%D0%AD%D0%AD%D0%93?locale=ru
+http://cyberleninka.ru/article/n/primenenie-metodologii-teorii-fraktalov-v-elektrofiziologicheskoy-diagnostike-nevrologicheskih-zabolevaniy
+http://www.rusnauka.com/13_EISN_2009/Matemathics/45433.doc.htm
+http://vibrocenter.ru/vnr/articles/wavelet.htm
+http://www.dissercat.com/content/issledovanie-i-razrabotka-metodov-obrabotki-signalov-i-prinyatiya-reshenii-v-meditsinskikh-d
+
+Database
+https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
+https://sccn.ucsd.edu/eeglab/
